@@ -1,4 +1,4 @@
 # JSCMF
 My idea for a fairly barebones JavaScript based Content Management System.
 
-Requires Node with jQuery package.
+Requires Node with jQuery and jsdom package.
